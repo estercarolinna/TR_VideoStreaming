@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Video Streaming</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="unknown">: Unknown</string>
+    <string name="title">  Video Cartoons and Animation</string>
+    <string name="title_activity_videoplayer">Video Player</string>
+    <string name="title_activity_video_streaming2">Video Streaming</string>
+    <string name="title_activity_home_list">homeList</string>
+</resources>
